@@ -1,3 +1,5 @@
+**BusyFlights**
+
 
 BusyFlights is a flights search solution which aggregates flight results initially from 2 different suppliers (CrazyAir and ToughJet). A future iteration (not part of the test) may add more suppliers.
 The result is a JSON response which contains a list of flights ordered by fare which has the following attributes:
